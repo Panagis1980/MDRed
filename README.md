@@ -13,14 +13,14 @@ E.g.
 3. Red = Used - NOK
 4. Blue = Sectors of currently selected file.
 
-# Other functionalities in progress:
+## Other functionalities in progress:
 
 1. File rename
 2. Microdrive name rename
 3. File Content editing
 4. About and Help tabs
 
-# Fixes needed
+## Fixes needed
 1. File rename (function implemented but not triggered yet)
 2. Cartridge name in label3
 3. 

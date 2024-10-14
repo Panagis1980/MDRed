@@ -1,6 +1,7 @@
 # MDRed
+## ZX Spectrum MDR file editor
 
-Microdrive file MDR Editor 
+Microdrive file MDR Editor for ZX Spectrum
 
 All you need to manage and manipulate mdr images. You can add your onw basic files and read them from Fuse or vDrive.
 Best way to transfer files to a native Interface 1 vDrive setup. Created out of necessity...

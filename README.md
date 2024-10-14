@@ -19,7 +19,7 @@ E.g.
 3. File Content editing
 4. About and Help tabs
 
-#Fixes needed
+# Fixes needed
 1. File rename (function implemented but not triggered yet)
 2. Cartridge name in label3
 3. 

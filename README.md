@@ -6,6 +6,7 @@ Microdrive file MDR Editor for ZX Spectrum
 All you need to manage and manipulate mdr images. You can add your onw basic files and read them from Fuse or vDrive.
 Best way to transfer files to a native Interface 1 vDrive setup. Created out of necessity...
 
+[481289802_604136019256189_6019812668027238294_n](https://github.com/user-attachments/assets/65a66a6e-6d16-4486-ba22-5799449d4507)
 Please feel free to test and open issues. There are some feature pending like changin coloring in sector map. 
 E.g. 
 1. White = Empty
@@ -16,7 +17,8 @@ E.g.
 ## Other functionalities in progress:
 
 1. File rename
-2. Microdrive name rename
+2. Microdrive name rename!
+
 3. File Content editing
 4. About and Help tabs
 
@@ -24,3 +26,4 @@ E.g.
 1. File rename (function implemented but not triggered yet)
 2. Cartridge name in label3
 3. 
+
